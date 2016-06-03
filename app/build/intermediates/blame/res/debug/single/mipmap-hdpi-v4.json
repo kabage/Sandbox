@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/airtimeicon.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/airtimeicon.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_action_next.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/ic_action_next.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/welcome_03.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/welcome_03.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/welcome_02.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/welcome_02.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/logo.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/smsicon.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/smsicon.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/welcome_01.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/welcome_01.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ussdicon.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/ussdicon.png"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/voiceicon.png",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/mipmap-hdpi/voiceicon.png"
+    }
+]

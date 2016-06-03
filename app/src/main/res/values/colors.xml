@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b8d32</color>
+    <color name="colorPrimaryDark">#540723</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_selected">#888</color>
+    <color name="choices_text_colour">#1976D2</color>
+
+    <color name="google_plus_bg">#e5e5e5</color>
+    <color name="whitesmoke">#f5f5f5</color>
+
+    <color name="amber">#FFC400</color>
+
+    <color name="theme_primary">#af5475</color>
+
+    <!-- Grays -->
+    <color name="gray1">#f1f2f1</color>
+    <color name="gray2">#F2F2F2</color>
+    <color name="gray3">#ededed</color>
+    <color name="gray4">#ebeceb</color>
+    <color name="gray5">#EAEAEA</color>
+    <color name="gray6">#e4e4e4</color>
+    <color name="gray7">#d5d5d5</color>
+    <color name="gray8">#D2D2D2</color> //
+    <color name="gray9">#cecece</color>
+    <color name="gray10">#C2C2C2</color>
+    <color name="gray11">#C9C9C9</color> //
+    <color name="gray12">#c8c8c8</color> //
+    <color name="gray13">#BEBEBE</color>
+    <color name="gray14">#BDBDBD</color>
+    <color name="gray15">#A4A4A4</color>
+    <color name="gray16">#818181</color>
+    <color name="gray17">#7A7A7A</color> //
+    <color name="gray18">#767676</color> //
+    <color name="gray19">#666666</color> //
+    <color name="gray20">#656565</color> //
+    <color name="gray21">#464646</color> //
+
+
+    <!--Comment-->
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="bg_comments">#ffffff</color>
+
+
+    <!--VoiceFragment-->
+    <color name="btn_sign_me_up">#4CAF50</color>
+    <color name="floating_action_button_edit">#757575</color>
+</resources>

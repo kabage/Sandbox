@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/kabage/Repositories/swipeAt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_checkbox_unchecked.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_checkbox_unchecked.svg"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_checkbox_checked.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_checkbox_checked.svg"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_checkbox_filled.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_checkbox_filled.svg"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_radiobutton_filled.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_radiobutton_filled.svg"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_radiobutton_checked.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_radiobutton_checked.svg"
+    },
+    {
+        "merged": "/home/kabage/Repositories/swipeAt/app/build/intermediates/res/merged/debug/raw/carbon_radiobutton_unchecked.svg",
+        "source": "/home/kabage/Repositories/swipeAt/app/src/main/res/raw/carbon_radiobutton_unchecked.svg"
+    }
+]
